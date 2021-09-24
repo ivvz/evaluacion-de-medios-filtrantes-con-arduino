@@ -3,6 +3,6 @@
 
 # Este trabajo forma parte de la Asignatura proyecto de la carrera de ingeniería química metalúrgica.
 
-Se diseño un equipo que permite medir el vacío en una prueba de filtración.
+- Se diseño un equipo que permite medir el vacío en una prueba de filtración.
 
-El programa permite establecer la comunicación serial entre la placa y una hoja de cálculo en excel.
+- El programa permite establecer la comunicación serial entre la placa y una hoja de cálculo en excel.
