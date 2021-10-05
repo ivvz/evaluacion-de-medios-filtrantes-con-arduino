@@ -29,8 +29,12 @@ También se utilizó una pantalla LCD, un par de botones que inician y detienen 
 # Diagrama del sistema de filtrado
 ![Diagrama sistema](/imgs/sistema_mason.png)
 
-# Diagrama de conecciones
-![Diagrama conecciones](/imgs/esquema_proyecto_bb.png)
+# Diagrama de conexiones
+![Diagrama conexiones](/imgs/esquema_proyecto_bb.png)
+
+
+# Comunicación Arduino-Excel
+Para establecer la comunicación serial entre la tarjeta arduino y la hoja de cálculo, se empleo el programa Parallax Data Acquisition tool (PLX-DAQ) software add-in for Microsoft Excel. Este complemento se puede descargar en la (página oficial del software] (https://www.parallax.com/package/plx-daq/). También se ha incluido el los archivos de este repositorio. 
 
 
 
