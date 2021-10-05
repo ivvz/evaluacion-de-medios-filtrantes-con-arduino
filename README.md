@@ -27,7 +27,7 @@ También se utilizó una pantalla LCD, un par de botones que inician y detienen 
 
 
 # Diagrama del sistema de filtrado
-![Diagrama sistema](/imgs/sistema_mason.pdf)
+![Diagrama sistema](/imgs/sistema_mason)
 
 # Diagrama de conecciones
 ![Diagrama conecciones](/imgs/esquema_proyecto_bb.png)
