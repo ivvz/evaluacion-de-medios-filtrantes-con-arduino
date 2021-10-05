@@ -10,7 +10,7 @@
 
 - Adicionalmente se construyo un equipo generador de vacio en conjunto con un sistema de filtrado.
 
-El sistema completo luce así:
+##El sistema completo luce así:
 
 ![Equipo construido](/imgs/sistema_completo_verde.jpg)
 
@@ -23,7 +23,7 @@ También se utilizó una pantalla LCD, un par de botones que inician y detienen 
 ![Dispositivos electrónicos empleados](/imgs/dispositivos_electronicos_verde.jpg)
 
 
-![Detalle protoboard](/imgs/proto_3.jpg)
+![Detalle protoboard](/imgs/proto_3.JPG)
 
 
 
