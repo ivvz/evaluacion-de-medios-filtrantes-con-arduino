@@ -2,7 +2,7 @@
 
 # Construcción de un sistema arduino medidor de vacio para la valución de medios filtrantes empleados en el beneficio de minerales.
 
-## Este procyecto forma parte del trabajo de tesis de la carrera de ingeniería química metalúrgica de la Facultad de Química de la UNAM.
+## Este procyecto forma parte de mi trabajo de tesis de la carrera de ingeniería química metalúrgica de la Facultad de Química de la UNAM.
 
 - Se diseño y construyó un equipo que permite medir el vacío en una prueba de filtración.
 
@@ -19,11 +19,11 @@ Se empleó una tarjeta arduino UNO junto con un sensor de presión BMP180.
 También se utilizó una pantalla LCD, un par de botones que inician y detienen el registro de los datos en la hoja de cálculo de Excel y un par de leds que indican si se esta o no efectuando el registro de datos.
 
 
-
+# Componentes electrónicos
 ![Dispositivos electrónicos empleados](/imgs/dispositivos_electronicos_verde.jpg)
 
 
-![Detalle protoboard](/imgs/proto_11.jpg)
+![Detalle protoboard](/imgs/proto_11.jpg){height=400px width=500px}
 
 
 # Diagrama del sistema de filtrado
@@ -34,7 +34,7 @@ También se utilizó una pantalla LCD, un par de botones que inician y detienen 
 
 
 # Comunicación Arduino-Excel
-Para establecer la comunicación serial entre la tarjeta arduino y la hoja de cálculo, se empleo el programa Parallax Data Acquisition tool (PLX-DAQ) software add-in for Microsoft Excel. Este complemento se puede descargar en la (página oficial del software] (https://www.parallax.com/package/plx-daq/). También se ha incluido el los archivos de este repositorio. 
+Para establecer la comunicación serial entre la tarjeta arduino y la hoja de cálculo, se empleo el programa Parallax Data Acquisition tool (PLX-DAQ) software add-in for Microsoft Excel. Este complemento se puede descargar en la [página oficial del software] (https://www.parallax.com/package/plx-daq/). También se ha incluido el los archivos de este repositorio. 
 
 
 
