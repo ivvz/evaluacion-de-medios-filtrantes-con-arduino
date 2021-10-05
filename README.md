@@ -9,3 +9,9 @@
 - El programa permite establecer la comunicación serial entre la placa y una hoja de cálculo en excel.
 
 - Adicionalmente se construyo un equipo generador de vacio en conjunto con un sistema de filtrado.
+
+
+![Equipo construido](/imgs/sistema_completo_verde.jpg)
+
+
+
