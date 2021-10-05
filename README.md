@@ -23,7 +23,7 @@ También se utilizó una pantalla LCD, un par de botones que inician y detienen 
 ![Dispositivos electrónicos empleados](/imgs/dispositivos_electronicos_verde.jpg)
 
 
-![Detalle protoboard](/imgs/proto_11.jpg){height=400px width=500px}
+![Detalle protoboard](/imgs/proto_11.jpg)
 
 
 # Diagrama del sistema de filtrado
